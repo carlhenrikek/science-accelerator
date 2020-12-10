@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl Henrik Ek | Science Accelerator</title>
-    <link>/author/carl-henrik-ek/</link>
-      <atom:link href="/author/carl-henrik-ek/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://carlhenrik.com/science-accelerator/author/carl-henrik-ek/</link>
+      <atom:link href="http://carlhenrik.com/science-accelerator/author/carl-henrik-ek/index.xml" rel="self" type="application/rss+xml" />
     <description>Carl Henrik Ek</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 10 Dec 2020 22:42:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 10 Dec 2020 22:57:51 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://carlhenrik.com/science-accelerator/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Carl Henrik Ek</title>
-      <link>/author/carl-henrik-ek/</link>
+      <link>http://carlhenrik.com/science-accelerator/author/carl-henrik-ek/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning and the Scientific Principle</title>
+      <link>http://carlhenrik.com/science-accelerator/talk/che/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>http://carlhenrik.com/science-accelerator/talk/che/</guid>
+      <description>&lt;p&gt;In this talk everything will be made so confusing so that you will really question why you attended the workshop, at least it didn&amp;rsquo;t cost you any money.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

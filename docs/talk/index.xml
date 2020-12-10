@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talk | Science Accelerator</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://carlhenrik.com/science-accelerator/talk/</link>
+      <atom:link href="http://carlhenrik.com/science-accelerator/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://carlhenrik.com/science-accelerator/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Talk</title>
-      <link>/talk/</link>
+      <link>http://carlhenrik.com/science-accelerator/talk/</link>
     </image>
     
     <item>
-      <title>Machine Learning</title>
-      <link>/talk/neil/</link>
+      <title>Accelerate Science Program</title>
+      <link>http://carlhenrik.com/science-accelerator/talk/jessica/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/neil/</guid>
+      <guid>http://carlhenrik.com/science-accelerator/talk/jessica/</guid>
+      <description>&lt;p&gt;In recent years &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://carlhenrik.com/science-accelerator/talk/neil/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>http://carlhenrik.com/science-accelerator/talk/neil/</guid>
       <description>&lt;p&gt;In this talk everything will be made clear&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Confusing</title>
-      <link>/talk/che/</link>
+      <title>Machine Learning and the Scientific Principle</title>
+      <link>http://carlhenrik.com/science-accelerator/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>/talk/che/</guid>
-      <description>&lt;p&gt;In this talk everything will be made confusing&lt;/p&gt;
+      <guid>http://carlhenrik.com/science-accelerator/talk/che/</guid>
+      <description>&lt;p&gt;In this talk everything will be made so confusing so that you will really question why you attended the workshop, at least it didn&amp;rsquo;t cost you any money.&lt;/p&gt;
 </description>
     </item>
     
